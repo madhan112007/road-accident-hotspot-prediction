@@ -1,0 +1,16 @@
+Latitude,Longitude,Severity,Date_Time,Weather,Road_Type,Vehicles_Involved,Light_Condition,Speed_Limit
+11.0014,76.9627,3,2023-05-15 08:30:00,Clear,City Road,2,Day,40
+11.0168,76.9558,4,2023-03-22 19:15:00,Rain,Highway,3,Night,80
+10.9905,76.9614,2,2023-07-10 14:45:00,Cloudy,Residential Street,1,Day,30
+11.0189,76.9565,3,2023-11-05 21:30:00,Fog,City Road,2,Night,50
+11.0052,76.9541,1,2023-09-18 10:20:00,Clear,Rural Road,1,Day,60
+11.0123,76.9589,4,2023-12-15 17:45:00,Windy,Highway,4,Day,100
+10.9956,76.9632,2,2023-04-08 13:10:00,Clear,City Road,2,Day,40
+11.0201,76.9523,3,2023-08-22 20:05:00,Rain,Residential Street,1,Night,30
+11.0087,76.9598,1,2023-06-14 09:15:00,Cloudy,Rural Road,1,Day,60
+11.0156,76.9534,4,2023-10-29 18:30:00,Fog,Highway,3,Night,80
+11.0021,76.9601,2,2023-01-12 07:45:00,Clear,City Road,1,Day,40
+11.0195,76.9543,3,2023-02-28 16:20:00,Rain,Highway,2,Day,80
+10.9987,76.9592,1,2023-06-05 11:30:00,Cloudy,Residential Street,1,Day,30
+11.0142,76.9578,4,2023-04-18 22:15:00,Fog,City Road,3,Night,50
+11.0068,76.9559,2,2023-08-03 09:45:00,Clear,Rural Road,2,Day,60
